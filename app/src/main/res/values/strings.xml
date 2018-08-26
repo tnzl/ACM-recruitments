@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACM recruitment</string>
+    <string name="title">ACM</string>
+    <string name="pin">PIN</string>
+    <string name="pin_hint">Enter PIN</string>
+    <string name="developer">10zL</string>
+</resources>
