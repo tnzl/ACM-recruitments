@@ -5,4 +5,11 @@
     <string name="pin_hint">Enter PIN</string>
     <string name="developer">10zL</string>
     <string name="recruitment">Recruitment</string>
+    <string name="promote">Promote</string>
+    <string name="name">Name:</string>
+    <string name="ID">ID:</string>
+    <string name="aptitude">Aptitude:</string>
+    <string name="not_available">Not available</string>
+    <string name="Task">Task :</string>
+    <string name="notProvided">Not yet uploaded.</string>
 </resources>
