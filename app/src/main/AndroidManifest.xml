@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.tanzeel.ACMrecruitment">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/diamond_launcher"
@@ -17,7 +19,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".StudentProfileActivity"></activity>
+        <activity android:name=".StudentProfileActivity" />
+        <activity android:name=".ListActivity" />
+        <activity android:name=".AddStudentActivity"></activity>
     </application>
 
 </manifest>

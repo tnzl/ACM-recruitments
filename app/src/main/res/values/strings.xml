@@ -12,4 +12,9 @@
     <string name="not_available">Not available</string>
     <string name="Task">Task :</string>
     <string name="notProvided">Not yet uploaded.</string>
+    <string name="population">Population :</string>
+    <string name="allStudent">All Students</string>
+    <string name="addStudent">Add Student</string>
+    <string name="name_hint">Name</string>
+    <string name="phoneNo_hint">Phone No</string>
 </resources>
